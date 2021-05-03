@@ -11,9 +11,9 @@ Version 1.0
 
 ## End Points ##
 Sample end point https://leaderboard.timestree.com/api/learderboard/score/
+e.g. https://leaderboard.timestree.com/api/learderboard/score/read.php
 
 [Download postman collection](leaderboard_api.postman_collection.json)
-e.g. https://leaderboard.timestree.com/api/learderboard/score/read.php
 
 - /api/learderboard/score/read.php
     - Load all active scores from a get request
